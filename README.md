@@ -1,3 +1,6 @@
+Download
+https://github.com/sleepyducky44/EZGD/releases/download/main/EzGD.exe
+
 # EZGD
 Simple desktop app to download GitHub release assets without confusion. Automatically selects the best file for your system with a clean, beginner-friendly interface.
 # 🚀 EzGD - Easy Git Downloader
